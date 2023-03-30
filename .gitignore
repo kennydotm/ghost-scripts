@@ -127,5 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 speech-recognition/.DS_Store
+=======
+>>>>>>> 9fd4f72f3f2de393021e42e1938330b3cdfa346b
 .DS_Store
